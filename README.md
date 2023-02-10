@@ -2,6 +2,14 @@
 Autoencoder vs Variational Autoencoder for anomaly detection.<br>
 The dataset is an treated as unlabelled financial transactions<br>
 but data does provide which transactions are anomalies.<br>
+7% of data were anomalies. <br>
+<br>
+**Results**
+Autoencoder
+![image](https://user-images.githubusercontent.com/45408401/218049193-b3d92184-236f-4dc6-8049-12d9dbbf6dae.png)
+<br>
+VAE
+![image](https://user-images.githubusercontent.com/45408401/218048987-e8d72ad6-a806-4970-9b07-dcefc1692a12.png)
 
 **Reflection**
 <br>
